@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Bem-Vindo as paginas do GitHub
 
-You can use the [editor on GitHub](https://github.com/marcelo-gouveia/masg/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Você pode usar o [editor on GitHub](https://github.com/marcelo-gouveia/masg/edit/master/index.md) para manutenção e visualização do conteúdo do seu website no arquivo Markdown.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
